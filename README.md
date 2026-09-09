@@ -4,4 +4,4 @@
 
 OPEN PROTOTYPE
 
-https://kivi-assignment.vercel.app
+https://kivi.mambaclub.site
